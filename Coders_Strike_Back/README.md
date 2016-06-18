@@ -1,5 +1,12 @@
 #Coders Strike Back  
 
+>*They have podracing on Malastare. Very fast, very dangerous.*
+
+*Qui-Gon Jinn*
+
+###Task
+You have 2 pods from [Star Wars Tatooine Podraces](http://starwars.wikia.com/wiki/Podracing). A task is to write bot AI for pod which could finish the Podrace before your opponent's pod. :smirk:
+
 ###Gameplay
 ![Coders Strike Back gameplay](gameplay.gif)  
 
