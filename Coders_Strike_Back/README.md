@@ -5,7 +5,7 @@
 *Qui-Gon Jinn*
 
 ###Task
-You have 2 pods from [Star Wars Tatooine Podraces](http://starwars.wikia.com/wiki/Podracing). A task is to write bot AI for pod which could finish the Podrace before your opponent's pod. :smirk:
+You have 2 pods from [Star Wars Tatooine Podraces](http://starwars.wikia.com/wiki/Podracing). You must to write bot AI for pod which could finish the Podrace before your opponent's pod. :smirk:
 
 ###Gameplay
 ![Coders Strike Back gameplay](gameplay.gif)  
